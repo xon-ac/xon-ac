@@ -15,6 +15,7 @@ Open-source projects focused on accessibility.
 Creative web and mobile app ideas.
 
 📫 How to reach me:
+
 LinkedIn: [xon_ac](https://www.linkedin.com/in/xon-ac/)
 
 Email: shawnclarke890@gmail.com
