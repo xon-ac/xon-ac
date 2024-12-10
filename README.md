@@ -12,11 +12,11 @@ Continuous integration and deployment workflows.
 
 💞️ I’m looking to collaborate on:
 Open-source projects focused on accessibility.
-Creative web and mobile app ideas that highlight public art and culture.
-Educational resources for budding developers.
+Creative web and mobile app ideas.
 
 📫 How to reach me:
-LinkedIn: xon_ac
+LinkedIn: [xon_ac](https://www.linkedin.com/in/xon-ac/)
+
 Email: shawnclarke890@gmail.com
 
 😄 Pronouns:
