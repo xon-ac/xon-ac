@@ -4,19 +4,24 @@
 Building accessible and interactive websites.
 Exploring design technology and modern web development frameworks.
 Projects that combine creativity and functionality.
+
 🌱 I’m currently learning:
 Advanced concepts in React Native and Expo.
 Backend development techniques for scalable applications.
 Continuous integration and deployment workflows.
+
 💞️ I’m looking to collaborate on:
 Open-source projects focused on accessibility.
 Creative web and mobile app ideas that highlight public art and culture.
 Educational resources for budding developers.
+
 📫 How to reach me:
-LinkedIn: Shawn Clarke
-Email: xon.ac@gmail.com
+LinkedIn: xon_ac
+Email: shawnclarke890@gmail.com
+
 😄 Pronouns:
 He/Him
+
 ⚡ Fun fact:
 I have a background in art and design, which fuels my passion for creating user-friendly, visually appealing digital experiences.
 
